@@ -1,0 +1,11 @@
+.card{
+  width:100%;
+  max-width:600px;
+}
+.containerDiv {
+  margin-top:5%;
+  padding: 10 10 10 10;
+  display:flex;
+  justify-content:center;
+
+}
